@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Sirius</title>
+    <link>https://rollingsirius.github.io/</link>
+    <description>Recent content on Sirius</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>John Doe (CC BY 4.0)</copyright><atom:link href="https://rollingsirius.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
