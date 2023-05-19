@@ -3,11 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://rollingsirius.github.io/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rollingsirius.github.io/blog/</loc>
-  </url><url>
-    <loc>https://rollingsirius.github.io/categories/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rollingsirius.github.io/tags/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rollingsirius.github.io/tags/%E4%B9%A6%E8%AF%84/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rollingsirius.github.io/tags/%E4%BA%A7%E5%93%81/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rollingsirius.github.io/blog/methodology_of_product_design/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rollingsirius.github.io/categories/</loc>
   </url>
 </urlset>
