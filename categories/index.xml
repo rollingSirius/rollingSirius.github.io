@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sirius 的博客</title>
-    <link>https://rollingsirius.github.io/categories/</link>
+    <link>https://siri.ink/categories/</link>
     <description>Recent content in Categories on Sirius 的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
-    <copyright>John Doe (CC BY 4.0)</copyright><atom:link href="https://rollingsirius.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>John Doe (CC BY 4.0)</copyright><atom:link href="https://siri.ink/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>首页 on Sirius 的博客</title>
-    <link>https://rollingsirius.github.io/</link>
+    <link>https://siri.ink/</link>
     <description>Recent content in 首页 on Sirius 的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
     <copyright>John Doe (CC BY 4.0)</copyright>
-    <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rollingsirius.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://siri.ink/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>俞军：一流的产品经理，心中都有份蓝图</title>
-      <link>https://rollingsirius.github.io/blog/methodology_of_product_design/</link>
+      <link>https://siri.ink/blog/methodology_of_product_design/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rollingsirius.github.io/blog/methodology_of_product_design/</guid>
+      <guid>https://siri.ink/blog/methodology_of_product_design/</guid>
       <description>在产品圈，很少有人不知道俞军老师，他是百度的第一任产品经理，也是著名的「产品军规12条」的提出者。
 加入滴滴之后，任产品高级副总裁，2019年离开滴滴时出了一本书，系统讲了他对产品的理解和实践，也就是今天我们要聊的《俞军产品方法论》。
 01 没有产品蓝图，就有如盲人摸象 在和其他产品经理沟通时发现：因为产品工作本身很复杂，涉及的业务也比较多，即使优秀的产品经理也只能对一两个领域比较熟悉，更不用说抽象成普适的产品体系。
