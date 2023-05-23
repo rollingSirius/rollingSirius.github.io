@@ -96,9 +96,9 @@
 混合云的产生是因为一些企业或组织出于数据隐私或者 IT 架构考虑，使得整个 IT 系统存在多套云环境，不同云环境之间通常通过网络专线进行连接。
 一个常见的混合云搭配是：企业内部搭建私有云存储核心业务数据，而把边缘或者非核心的业务放到公有云上。
 2、按照服务模式的不同，主要分为 IaaS、PaaS 和 SaaS，他们之间的区别在于：云服务的可定制化程度。
-**IaaS （Infrastructure as a Service）：**主要是提供基础层的服务，最常见的交付物是云主机。主要典型产品为 AWS 的 EC2 产品以及其他厂商的云主机；
-**PaaS （Platform as a Service）：**主要是提供业务代码的运行环境和工具，最典型的 PaaS 应用是 GAE ( Google App Engine ) 以及 SAE ( Sina App Engine )。云上的数据库和中间件应用也算是典型的 PaaS 应用；
-**SaaS （Software as a Service）：**直接注册、登录即可使用的云产品，比如说钉钉、企业微信这些办公协同软件就是典型的 SaaS 产品。邮箱也可以看作是一个广义的 SaaS 产品。SaaS 平台因为行业和应用场景的多样化，分类很多。
+IaaS （Infrastructure as a Service）：主要是提供基础层的服务，最常见的交付物是云主机。主要典型产品为 AWS 的 EC2 产品以及其他厂商的云主机；
+PaaS （Platform as a Service）：主要是提供业务代码的运行环境和工具，最典型的 PaaS 应用是 GAE ( Google App Engine ) 以及 SAE ( Sina App Engine )。云上的数据库和中间件应用也算是典型的 PaaS 应用；
+SaaS （Software as a Service）：直接注册、登录即可使用的云产品，比如说钉钉、企业微信这些办公协同软件就是典型的 SaaS 产品。邮箱也可以看作是一个广义的 SaaS 产品。SaaS 平台因为行业和应用场景的多样化，分类很多。
 不同的服务模式，对应着用户对资源的不同掌控力度。
 IaaS 层的产品用户对于资源的控制力度最大，云主机这个典型的 IaaS 层产品用户可以直接控制从操作系统往上的层面，只把底层物理机硬件对用户屏蔽，最终使用者主要是 IT 管理员和运维人员。</description>
     </item>
