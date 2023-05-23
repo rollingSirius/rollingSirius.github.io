@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>云计算 on Sirius 的博客</title>
+    <link>https://siri.ink/tags/%E4%BA%91%E8%AE%A1%E7%AE%97/</link>
+    <description>Recent content in 云计算 on Sirius 的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <copyright>John Doe (CC BY 4.0)</copyright>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://siri.ink/tags/%E4%BA%91%E8%AE%A1%E7%AE%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>云计算入门</title>
+      <link>https://siri.ink/blog/the_introduction_of_cloud_product/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://siri.ink/blog/the_introduction_of_cloud_product/</guid>
+      <description>本文从云计算的定义、云计算的历史和现状、云计算的使用三个方面介绍云计算，最后再聊一聊云计算产品的做法，以及如何进入云行业。
+01 什么是云计算？ 云计算产品种类繁多，但是无论什么类型的云产品都主要是：“ 将集中的 IT 资源虚拟化，交由专业的团队进行统一运维，以互联网的方式对外提供服务 ”。
+根据美国国家标准与技术研究院（NIST）制定的云计算标准，主要按照部署方式和服务模式进行分类。
+1、按照部署方式的不同，主要分成私有云、公有云、专有云和混合云，他们的主要区别在于部署方式。当然，也有一些因为行业标准以及规模范围等因素造成的实现技术的区别：
+私有云：为单个组织或者团体提供云服务的平台；
+公有云：为大众提供云服务的平台；
+专有云：又叫团体云，为具有相同关切点的组织或者团体提供云服务的平台，相同的关切点可能包括：安全规范、监管要求等。根据不同的关切点可分为金融云、政务云等。
+混合云：同时包含上面任意两种架构的云平台叫做混合云。
+上图可以帮助理解几种云之间的关系，私有云是一个独立部署的云平台，主要是大型企业和政府内部使用，一般不是云计算行业从业人员比较难接触到。
+公有云比较常见，阿里云、腾讯云、华为云我们都可以通过搜索引擎直接进入官网，购买相应的云服务。
+这三家云厂商也都有专有云，不过入口比较深，一般因为特殊的安全和监管要求，费用会比公有云更贵，也有只做专有云的云平台，比如平安集团的平安云，主要就是做金融行业的云平台。
+混合云的产生是因为一些企业或组织出于数据隐私或者 IT 架构考虑，使得整个 IT 系统存在多套云环境，不同云环境之间通常通过网络专线进行连接。
+一个常见的混合云搭配是：企业内部搭建私有云存储核心业务数据，而把边缘或者非核心的业务放到公有云上。
+2、按照服务模式的不同，主要分为 IaaS、PaaS 和 SaaS，他们之间的区别在于：云服务的可定制化程度。
+**IaaS （Infrastructure as a Service）：**主要是提供基础层的服务，最常见的交付物是云主机。主要典型产品为 AWS 的 EC2 产品以及其他厂商的云主机；
+**PaaS （Platform as a Service）：**主要是提供业务代码的运行环境和工具，最典型的 PaaS 应用是 GAE ( Google App Engine ) 以及 SAE ( Sina App Engine )。云上的数据库和中间件应用也算是典型的 PaaS 应用；
+**SaaS （Software as a Service）：**直接注册、登录即可使用的云产品，比如说钉钉、企业微信这些办公协同软件就是典型的 SaaS 产品。邮箱也可以看作是一个广义的 SaaS 产品。SaaS 平台因为行业和应用场景的多样化，分类很多。
+不同的服务模式，对应着用户对资源的不同掌控力度。
+IaaS 层的产品用户对于资源的控制力度最大，云主机这个典型的 IaaS 层产品用户可以直接控制从操作系统往上的层面，只把底层物理机硬件对用户屏蔽，最终使用者主要是 IT 管理员和运维人员。</description>
+    </item>
+    
+  </channel>
+</rss>
