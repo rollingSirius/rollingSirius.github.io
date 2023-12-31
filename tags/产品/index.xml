@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
     <copyright>Sirius (CC BY 4.0)</copyright>
-    <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://siri.ink/tags/%E4%BA%A7%E5%93%81/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://siri.ink/tags/%E4%BA%A7%E5%93%81/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>俞军：一流的产品经理，心中都有份蓝图</title>
       <link>https://siri.ink/blog/methodology_of_product_design/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://siri.ink/blog/methodology_of_product_design/</guid>
       <description>在产品圈，很少有人不知道俞军老师，他是百度的第一任产品经理，也是著名的「产品军规12条」的提出者。
 俞军在加入滴滴之后，任产品高级副总裁，2019年离开滴滴时出了一本书，系统讲了他对产品的理解和实践，也就是今天想聊一聊的《俞军产品方法论》。
@@ -75,12 +75,10 @@
 用户模型其实就是用户的偏好和行为反应模型，可以概括为以下公式：
 情景 + 用户 ——产品——&amp;gt; 用户体验</description>
     </item>
-    
     <item>
       <title>云计算入门</title>
       <link>https://siri.ink/blog/the_introduction_of_cloud_product/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://siri.ink/blog/the_introduction_of_cloud_product/</guid>
       <description>本文从云计算的定义、云计算的历史和现状、云计算的使用三个方面介绍云计算，最后再聊一聊云计算产品的做法，以及如何进入云行业。
 01 什么是云计算？ 云计算产品种类繁多，但是无论什么类型的云产品都主要是：“ 将集中的 IT 资源虚拟化，交由专业的团队进行统一运维，以互联网的方式对外提供服务 ”。
@@ -102,12 +100,10 @@ SaaS （Software as a Service）：直接注册、登录即可使用的云产品
 不同的服务模式，对应着用户对资源的不同掌控力度。
 IaaS 层的产品用户对于资源的控制力度最大，云主机这个典型的 IaaS 层产品用户可以直接控制从操作系统往上的层面，只把底层物理机硬件对用户屏蔽，最终使用者主要是 IT 管理员和运维人员。</description>
     </item>
-    
     <item>
       <title>什么是用户模型</title>
       <link>https://siri.ink/blog/user_model/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://siri.ink/blog/user_model/</guid>
       <description>俞军老师在他的新书《俞军产品方法论》里提出：”掌握一个领域的用户模型是产品经理的及格线“。但是，并没有在书中给出具体的落地方法。
 本文就尝试来理解一下书中提到的用户模型，以及如何在产品工作中应用用户模型。
@@ -161,6 +157,5 @@ IaaS 层的产品用户对于资源的控制力度最大，云主机这个典型
 用户：用户的特征，可以包括职业、性别、地域等信息。
 情景：用户在操作时，所处的场景。</description>
     </item>
-    
   </channel>
 </rss>

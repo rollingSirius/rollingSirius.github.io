@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
     <copyright>Sirius (CC BY 4.0)</copyright>
-    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://siri.ink/tags/%E4%BA%91%E8%AE%A1%E7%AE%97/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://siri.ink/tags/%E4%BA%91%E8%AE%A1%E7%AE%97/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>云计算入门</title>
       <link>https://siri.ink/blog/the_introduction_of_cloud_product/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://siri.ink/blog/the_introduction_of_cloud_product/</guid>
       <description>本文从云计算的定义、云计算的历史和现状、云计算的使用三个方面介绍云计算，最后再聊一聊云计算产品的做法，以及如何进入云行业。
 01 什么是云计算？ 云计算产品种类繁多，但是无论什么类型的云产品都主要是：“ 将集中的 IT 资源虚拟化，交由专业的团队进行统一运维，以互联网的方式对外提供服务 ”。
@@ -34,6 +34,5 @@ SaaS （Software as a Service）：直接注册、登录即可使用的云产品
 不同的服务模式，对应着用户对资源的不同掌控力度。
 IaaS 层的产品用户对于资源的控制力度最大，云主机这个典型的 IaaS 层产品用户可以直接控制从操作系统往上的层面，只把底层物理机硬件对用户屏蔽，最终使用者主要是 IT 管理员和运维人员。</description>
     </item>
-    
   </channel>
 </rss>

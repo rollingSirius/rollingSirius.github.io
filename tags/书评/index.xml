@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
     <copyright>Sirius (CC BY 4.0)</copyright>
-    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://siri.ink/tags/%E4%B9%A6%E8%AF%84/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://siri.ink/tags/%E4%B9%A6%E8%AF%84/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何更好的理解他人</title>
       <link>https://siri.ink/blog/how_to_understand_others/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://siri.ink/blog/how_to_understand_others/</guid>
       <description>1994年，纽约时报刊登了这样一个故事：
 一个刚结束一段恋情的女孩，将前男友送她的情书、贺卡等全装到一个袋子里，扔到了楼下的垃圾桶。可是，第二天她的前男友就打电话过来，质问她为什么要将这些东西丢掉。
@@ -72,12 +72,10 @@
 上面的步骤，可以帮助我们减少错误的判断。即使下了结论，也尽量把这个结论作为一种假设，而不要给别人贴上“标签”。
 一旦给别人贴上“标签”，就像带上了有色眼镜，很难再正确的理解他人了。</description>
     </item>
-    
     <item>
       <title>俞军：一流的产品经理，心中都有份蓝图</title>
       <link>https://siri.ink/blog/methodology_of_product_design/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://siri.ink/blog/methodology_of_product_design/</guid>
       <description>在产品圈，很少有人不知道俞军老师，他是百度的第一任产品经理，也是著名的「产品军规12条」的提出者。
 俞军在加入滴滴之后，任产品高级副总裁，2019年离开滴滴时出了一本书，系统讲了他对产品的理解和实践，也就是今天想聊一聊的《俞军产品方法论》。
@@ -140,6 +138,5 @@
 用户模型其实就是用户的偏好和行为反应模型，可以概括为以下公式：
 情景 + 用户 ——产品——&amp;gt; 用户体验</description>
     </item>
-    
   </channel>
 </rss>
