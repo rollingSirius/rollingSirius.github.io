@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>设计 on Sirius 的博客</title>
+    <link>https://siri.ink/tags/%E8%AE%BE%E8%AE%A1/</link>
+    <description>Recent content in 设计 on Sirius 的博客</description>
+    <generator>Hugo</generator>
+    <language>cn</language>
+    <copyright>Sirius (CC BY 4.0)</copyright>
+    <lastBuildDate>Tue, 25 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://siri.ink/tags/%E8%AE%BE%E8%AE%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何做移动网页设计</title>
+      <link>https://siri.ink/blog/how_to_desigin_wap/</link>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://siri.ink/blog/how_to_desigin_wap/</guid>
+      <description>首先，纠正一个常识性错误。我们常把移动网页设计叫做：Wap。其实，Wap 全称叫做无线应用协议，是一个使移动用户使用无线设备随时使用互联网的信息和服务的开放的规范。还有人把移动网页叫做 WebApp，其实我们大部分的网站都能叫做 WebApp，并不仅仅局限于移动网页，还包括 PC 网站。正确的名字应该是“移动网页”，这样比较能够准确地概括手机端的网页设计。&#xA;因为手机自身的一些特性，所以移动网页对比 Native App 和 PC 端网页，有一些固有的特点。概括起来主要有以下几点：&#xA;1、使用场景不同； 移动网页的访问大部分是通过搜索引擎和直接输入网址进入的，更多是为了浏览信息，以及满足及时性（比如汇率换算、异地天气、新闻阅读）的需求，所以留存较低。&#xA;2、可展示空间小； 除了移动设备本身屏幕较小以外，还因为浏览器大部分具有地址栏和导航栏，进一步占据了屏幕空间。&#xA;3、操作不便； 这个特性其实是由于可展示空间小引起的，因为展示空间较小。大部分浏览器将一些“新建标签页”、“前进”、“后退”的操作给隐藏了起来。用户需要更多步骤才能达成一些操作。H5火爆起来以后，这样的现象在微信中更为明显。&#xA;4、交互方式不同； 因为手机的性能问题，一些App上的特效并不能在移动网页上复现，即使能复现，特效也不会平滑，用户体验比较差。所以，这就决定了移动网页设计需要不同的交互方式，也有不同的关注点。&#xA;根据以上四个特点，我总结出了做移动网页需要注意的四个原则：&#xA;1、理清产品主流程； 因为使用场景的不同，用户在移动网页上做的事更为特定。这就需要在做产品设计的时候，理清产品的主流程，删减不必要的功能；让用户顺畅的完成目标。另外，我们要看到因为移动网页本身特点造成留存低，所以需要在明显位置设置 Native App 下载入口，将用户导入 App 中。&#xA;2、页面设计以简约为主； 因为用户目标比较明显，以及受屏幕大小限制。所以页面设计以简约为主，配合色彩，突出重点信息。&#xA;3、更加注重全局导航； WebApp 应用场景非常多样，最典型的就是在微信内置浏览器。在这样的情况下，导航的设计就特别重要。每个页面都要能到达 WebApp 上任意一个页面，步骤可以多点，但是一定要有路径。&#xA;4、减少特效，考虑页面加载速度。 采用“点击”这种最普通的交互方式，尽量减少不必要的效果及元素，突出主要信息的同时还可以加快页面加载速度。&#xA;以上，就是我对如何做移动网页设计的一些思考。</description>
+    </item>
+  </channel>
+</rss>
